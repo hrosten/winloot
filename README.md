@@ -1,2 +1,2 @@
 # winloot
-Windows post exploitation scripts and tools
+Miscellaneous Windows post exploitation scripts and tools
